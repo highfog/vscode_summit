@@ -5,4 +5,11 @@ html {
 
 #logo  {
     height: 10em;
-}    
+}   
+
+.jumbotron{
+    background-color: blueviolet;
+    background-image: url(/pictures/diego.jpg);
+    background-size: cover;
+    /*background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");*/
+}
