@@ -7,6 +7,11 @@ body {
     background-color: aqua;
 }
 
+#wrapper {
+    border: black solid 1px;
+    background-color:lightgrey;
+}
+
 #logo  {
     height: 10em;
 }   
